@@ -7,6 +7,7 @@ let turn0 = true;
 const WinningPattern = [
     [0,1,2],
     [0,3,6],
+    [0,4,8],
     [1,4,7],
     [2,5,8],
     [2,4,6],
